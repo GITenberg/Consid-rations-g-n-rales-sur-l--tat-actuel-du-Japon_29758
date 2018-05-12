@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31279'
     url: http://www.gutenberg.org/2009/agents/31279
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29758#Consid-rations-g-n-rales-sur-l--tat-actuel-du-Japon
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2009-08-22'
 gutenberg_type: Text
